@@ -1,0 +1,2 @@
+misc old tools that were made in python that are still in use
+no plans have been made to convert these tools to go as they are small enough to easily maintain

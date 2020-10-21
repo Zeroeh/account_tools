@@ -1,0 +1,7 @@
+Here is the index for figuring out the error codes in "comment"
+
+ListerCode0 = Account in use error
+ListerCode1 = Account doesnt exist
+ListerCode2 = Account not verified
+ListerCode3 = last ip does not match up with salesforce ip (treat these accounts with caution, sell them asap)
+
